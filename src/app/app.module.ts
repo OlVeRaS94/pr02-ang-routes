@@ -15,7 +15,7 @@ import { ElementsModule } from './elements/elements.module';
     LoginComponent,
     AboutComponent,
     HomeComponent,
-    RegisterComponent
+    RegisterComponent,
   ],
   imports: [
     BrowserModule,
